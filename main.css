@@ -151,7 +151,7 @@ a {
 .contactLinks a:hover{
     transform: translateY(10%);
     transition: 1s ease ;
-    font-family: ;
+    font-family:sans-serif ;
 }
 footer {
     display: flex;
